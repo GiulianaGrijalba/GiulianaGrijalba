@@ -1,8 +1,5 @@
 ##  ¡Hola! Mi nombre es Giuliana 👋
-
-
-## 📌 ¿Quién soy?
-Soy desarrolladora Full Stack con pasión por la tecnología y el aprendizaje constante. Disfruto enfrentar nuevos desafíos y mejorar mis habilidades día a día. 
+# Soy desarrolladora Full Stack con pasión por la tecnología y el aprendizaje constante. Disfruto enfrentar nuevos desafíos y mejorar mis habilidades día a día. 
 
 ## 💻 ¿Qué hago?
 - Desarrollo aplicaciones web con tecnologías modernas.

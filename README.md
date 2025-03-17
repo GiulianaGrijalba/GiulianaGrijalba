@@ -1,6 +1,5 @@
-## Hi there 👋
+##  ¡Hola! Mi nombre es Giuliana 👋
 
-# 👋 ¡Hola! Soy Giuliana
 
 ## 📌 ¿Quién soy?
 Soy desarrolladora Full Stack con pasión por la tecnología y el aprendizaje constante. Disfruto enfrentar nuevos desafíos y mejorar mis habilidades día a día. 
